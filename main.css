@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+}
+
+h1{ 
+    color: purple;
+    font-size: 60px;
+    text-align: left;
+}
+
+h2{   
+    color:yellow; 
+    background-color: orange;
+    font-size: 40px;
+}
+
+.first-paragraph{
+    color: pink;
+    background-color: green;
+}
+.second-paragraph{
+    color: red;
+    background-color: violet;
+}
+.last-paragraph{
+    color: blue;
+    background-color: bisque;
+}
+
+#google-link{   
+    color: red;
+    background-color: blue;
+}
+#facebook-link{ 
+    color: tomato;
+    background-color: green;
+}
+#some-url{ 
+    color: tomato;
+    background-color: green;

@@ -14,27 +14,49 @@ h2{
     font-size: 40px;
 }
 
+.shared-class{
+    font-family: sans-serif;
+    font-weight:bold;  
+}
+
 .first-paragraph{
     color: pink;
     background-color: green;
 }
+
 .second-paragraph{
     color: red;
     background-color: violet;
+    text-align: center;
 }
+
 .last-paragraph{
     color: blue;
     background-color: bisque;
+    font-weight: bold;
 }
 
 #google-link{   
     color: red;
     background-color: blue;
+    display: block;
 }
 #facebook-link{ 
     color: tomato;
     background-color: green;
+    display: block;
 }
-#some-url{ 
+.some-url { 
     color: tomato;
     background-color: green;
+}
+.navigation{   
+    color: red;
+    display:block;
+ }
+
+ .text{ 
+     color: gold;
+     background-color: blue;
+     display: inline;
+ }
